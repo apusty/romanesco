@@ -3,6 +3,8 @@
 A vanilla recurrent neural network (RNN) language model. Supports model
 training, text scoring, and text generation.
 
+This is the fork of Angelina.
+
 ## Installation
 
 Make sure you have an NVIDIA GPU at your disposal, with all drivers and CUDA
